@@ -49,5 +49,6 @@ http://localhost:3000
 
 ##🎉 Output Screenshots
 Here are some screenshots of the chatbot in action:
-![Chatbot UI](https://imgur.com/a/EWNbNiQ)
+![Chatbot UI](https://imgur.com/RWnz8zS)
+![Chatbot UI](https://imgur.com/SwSX2x1)
 
